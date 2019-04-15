@@ -1,0 +1,10 @@
+Name : Anna Bengel
+Role : Software Student
+DOB : May 21, 1992
+Start : April 15, 2019
+
+Software student learning the following software products:
+Microsoft C#.Net
+Git & GitHub.
+Java
+Spring Framework
